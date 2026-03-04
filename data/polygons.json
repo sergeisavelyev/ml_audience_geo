@@ -1,0 +1,4030 @@
+[
+  {
+    "id": 51592859,
+    "name": "Kazan Segment 76",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:35+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 344831,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.818842538809115,
+            "longitude": 49.09373771921054
+          },
+          {
+            "latitude": 55.81752429598786,
+            "longitude": 49.09599073362572
+          },
+          {
+            "latitude": 55.81803346693747,
+            "longitude": 49.09916207619736
+          },
+          {
+            "latitude": 55.819860932905215,
+            "longitude": 49.10008059883318
+          },
+          {
+            "latitude": 55.8211792366024,
+            "longitude": 49.09782753732162
+          },
+          {
+            "latitude": 55.82067001345332,
+            "longitude": 49.09465600026278
+          },
+          {
+            "latitude": 55.818842538809115,
+            "longitude": 49.09373771921054
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51592856,
+    "name": "Kazan Segment 75",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:29+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 56253,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.78585490230839,
+            "longitude": 49.09756917986026
+          },
+          {
+            "latitude": 55.784536173628084,
+            "longitude": 49.09982038600371
+          },
+          {
+            "latitude": 55.78504504450941,
+            "longitude": 49.10298939493413
+          },
+          {
+            "latitude": 55.786872696263885,
+            "longitude": 49.10390739192556
+          },
+          {
+            "latitude": 55.78819148580644,
+            "longitude": 49.101656138791256
+          },
+          {
+            "latitude": 55.78768256272968,
+            "longitude": 49.098486935648566
+          },
+          {
+            "latitude": 55.78585490230839,
+            "longitude": 49.09756917986026
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51592834,
+    "name": "Kazan Segment 74",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:23+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 336454,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.84166831299585,
+            "longitude": 49.078962227933424
+          },
+          {
+            "latitude": 55.8403506719102,
+            "longitude": 49.08121672087555
+          },
+          {
+            "latitude": 55.84086034547479,
+            "longitude": 49.08438932700411
+          },
+          {
+            "latitude": 55.84268771234684,
+            "longitude": 49.08530763478151
+          },
+          {
+            "latitude": 55.84400541430447,
+            "longitude": 49.08305309456533
+          },
+          {
+            "latitude": 55.843495688515475,
+            "longitude": 49.079880293837974
+          },
+          {
+            "latitude": 55.84166831299585,
+            "longitude": 49.078962227933424
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476297,
+    "name": "Kazan Segment 73",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:16+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 121543,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.72807802990615,
+            "longitude": 49.1879357265345
+          },
+          {
+            "latitude": 55.72675662533751,
+            "longitude": 49.190182217042455
+          },
+          {
+            "latitude": 55.72726293391864,
+            "longitude": 49.19334957697102
+          },
+          {
+            "latitude": 55.72909069910085,
+            "longitude": 49.194270640657486
+          },
+          {
+            "latitude": 55.73041216460025,
+            "longitude": 49.19202410406068
+          },
+          {
+            "latitude": 55.729905803984074,
+            "longitude": 49.18885654985841
+          },
+          {
+            "latitude": 55.72807802990615,
+            "longitude": 49.1879357265345
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476295,
+    "name": "Kazan Segment 72",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:10+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 44668,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.750226336338635,
+            "longitude": 49.15831271605506
+          },
+          {
+            "latitude": 55.748905847344275,
+            "longitude": 49.16056092008017
+          },
+          {
+            "latitude": 55.74941301614651,
+            "longitude": 49.16372905809253
+          },
+          {
+            "latitude": 55.751240726027916,
+            "longitude": 49.164649186354836
+          },
+          {
+            "latitude": 55.75256127593242,
+            "longitude": 49.1624009359386
+          },
+          {
+            "latitude": 55.752054055042755,
+            "longitude": 49.159232603643325
+          },
+          {
+            "latitude": 55.750226336338635,
+            "longitude": 49.15831271605506
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476293,
+    "name": "Kazan Segment 71",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:41:04+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 7844,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.757534287529175,
+            "longitude": 49.1095635601283
+          },
+          {
+            "latitude": 55.7562149521902,
+            "longitude": 49.11181305461373
+          },
+          {
+            "latitude": 55.75672335340972,
+            "longitude": 49.114980316528914
+          },
+          {
+            "latitude": 55.75855114214162,
+            "longitude": 49.115898277984094
+          },
+          {
+            "latitude": 55.75987053834082,
+            "longitude": 49.1136487366729
+          },
+          {
+            "latitude": 55.75936208494527,
+            "longitude": 49.11048128072445
+          },
+          {
+            "latitude": 55.757534287529175,
+            "longitude": 49.1095635601283
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476199,
+    "name": "Kazan Segment 70",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:57+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 97370,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.829619707187106,
+            "longitude": 49.1399900019169
+          },
+          {
+            "latitude": 55.82830058519993,
+            "longitude": 49.14224272299726
+          },
+          {
+            "latitude": 55.82880869723554,
+            "longitude": 49.14541621200564
+          },
+          {
+            "latitude": 55.83063598336958,
+            "longitude": 49.146337174812
+          },
+          {
+            "latitude": 55.83195516628972,
+            "longitude": 49.144084407010084
+          },
+          {
+            "latitude": 55.83144700214025,
+            "longitude": 49.1409107231155
+          },
+          {
+            "latitude": 55.829619707187106,
+            "longitude": 49.1399900019169
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476196,
+    "name": "Kazan Segment 69",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:51+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 93407,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.78789706315284,
+            "longitude": 49.16271272283557
+          },
+          {
+            "latitude": 55.786576936180104,
+            "longitude": 49.16496282371363
+          },
+          {
+            "latitude": 55.78708423379521,
+            "longitude": 49.16813387826094
+          },
+          {
+            "latitude": 55.7889117104564,
+            "longitude": 49.16905502657596
+          },
+          {
+            "latitude": 55.790231898364446,
+            "longitude": 49.16680487926298
+          },
+          {
+            "latitude": 55.7897245486734,
+            "longitude": 49.16363363006203
+          },
+          {
+            "latitude": 55.78789706315284,
+            "longitude": 49.16271272283557
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476181,
+    "name": "Kazan Segment 68",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:45+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 29338,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.82231105199071,
+            "longitude": 49.188824215559634
+          },
+          {
+            "latitude": 55.82099077426605,
+            "longitude": 49.19107563962656
+          },
+          {
+            "latitude": 55.82149765058753,
+            "longitude": 49.194250004908575
+          },
+          {
+            "latitude": 55.823324856656,
+            "longitude": 49.19517314125234
+          },
+          {
+            "latitude": 55.8246451953634,
+            "longitude": 49.192921670900894
+          },
+          {
+            "latitude": 55.824138267016984,
+            "longitude": 49.18974711048224
+          },
+          {
+            "latitude": 55.82231105199071,
+            "longitude": 49.188824215559634
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476157,
+    "name": "Kazan Segment 67",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:38+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 67050,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.807981736453726,
+            "longitude": 49.2253563419781
+          },
+          {
+            "latitude": 55.80666048656219,
+            "longitude": 49.227606328232916
+          },
+          {
+            "latitude": 55.80716638277962,
+            "longitude": 49.23078068926575
+          },
+          {
+            "latitude": 55.808993580845055,
+            "longitude": 49.23170525927846
+          },
+          {
+            "latitude": 55.810314891751574,
+            "longitude": 49.229455227085204
+          },
+          {
+            "latitude": 55.809808943575106,
+            "longitude": 49.226280670809736
+          },
+          {
+            "latitude": 55.807981736453726,
+            "longitude": 49.2253563419781
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476155,
+    "name": "Kazan Segment 66",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:32+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 166810,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74044899458651,
+            "longitude": 49.223305728926384
+          },
+          {
+            "latitude": 55.739126968173714,
+            "longitude": 49.225552207575795
+          },
+          {
+            "latitude": 55.73963249260393,
+            "longitude": 49.22872150635809
+          },
+          {
+            "latitude": 55.741460095413245,
+            "longitude": 49.2296445210975
+          },
+          {
+            "latitude": 55.742782182802195,
+            "longitude": 49.22739799663666
+          },
+          {
+            "latitude": 55.74227660640308,
+            "longitude": 49.224228503239964
+          },
+          {
+            "latitude": 55.74044899458651,
+            "longitude": 49.223305728926384
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476154,
+    "name": "Kazan Segment 65",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:25+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 178919,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.843014872724034,
+            "longitude": 49.12923232129703
+          },
+          {
+            "latitude": 55.84169614937593,
+            "longitude": 49.13148594928586
+          },
+          {
+            "latitude": 55.84220460717516,
+            "longitude": 49.134660120190354
+          },
+          {
+            "latitude": 55.844031840452274,
+            "longitude": 49.135580858036604
+          },
+          {
+            "latitude": 55.845350624728795,
+            "longitude": 49.13332718320412
+          },
+          {
+            "latitude": 55.84484211479718,
+            "longitude": 49.1301528173612
+          },
+          {
+            "latitude": 55.843014872724034,
+            "longitude": 49.12923232129703
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476120,
+    "name": "Kazan Segment 64",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:19+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 81540,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.742782182802195,
+            "longitude": 49.22739799663666
+          },
+          {
+            "latitude": 55.741460095413245,
+            "longitude": 49.2296445210975
+          },
+          {
+            "latitude": 55.7419655347125,
+            "longitude": 49.23281411087276
+          },
+          {
+            "latitude": 55.743793113359224,
+            "longitude": 49.233737370841325
+          },
+          {
+            "latitude": 55.745115261730035,
+            "longitude": 49.23149080059925
+          },
+          {
+            "latitude": 55.74460977046965,
+            "longitude": 49.22832101616197
+          },
+          {
+            "latitude": 55.742782182802195,
+            "longitude": 49.22739799663666
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476115,
+    "name": "Kazan Segment 63",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:13+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 18354,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.73631402549571,
+            "longitude": 49.11346798400459
+          },
+          {
+            "latitude": 55.73499434709047,
+            "longitude": 49.11571629193154
+          },
+          {
+            "latitude": 55.73550251995855,
+            "longitude": 49.11888209872877
+          },
+          {
+            "latitude": 55.73733042340007,
+            "longitude": 49.11979979145763
+          },
+          {
+            "latitude": 55.7386501626585,
+            "longitude": 49.11755143678474
+          },
+          {
+            "latitude": 55.738141937619616,
+            "longitude": 49.114385436121125
+          },
+          {
+            "latitude": 55.73631402549571,
+            "longitude": 49.11346798400459
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476114,
+    "name": "Kazan Segment 62",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:06+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 184333,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.77083698418269,
+            "longitude": 49.11915777383318
+          },
+          {
+            "latitude": 55.769517600976506,
+            "longitude": 49.12140778898315
+          },
+          {
+            "latitude": 55.770025852226794,
+            "longitude": 49.12457631423819
+          },
+          {
+            "latitude": 55.771853538837966,
+            "longitude": 49.1254950185516
+          },
+          {
+            "latitude": 55.77317298292218,
+            "longitude": 49.123244956629236
+          },
+          {
+            "latitude": 55.772664679514605,
+            "longitude": 49.12007623715803
+          },
+          {
+            "latitude": 55.77083698418269,
+            "longitude": 49.11915777383318
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476113,
+    "name": "Kazan Segment 61",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:39:00+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 86602,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.84372953561538,
+            "longitude": 49.14418341387348
+          },
+          {
+            "latitude": 55.84241049434677,
+            "longitude": 49.14643680064152
+          },
+          {
+            "latitude": 55.842918592335565,
+            "longitude": 49.14961145969865
+          },
+          {
+            "latitude": 55.8447457836953,
+            "longitude": 49.15053292702208
+          },
+          {
+            "latitude": 55.84606488590923,
+            "longitude": 49.1482794935378
+          },
+          {
+            "latitude": 55.845556735815535,
+            "longitude": 49.14510463943844
+          },
+          {
+            "latitude": 55.84372953561538,
+            "longitude": 49.14418341387348
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476016,
+    "name": "Kazan Segment 60",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:54+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 10642,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.741797722949165,
+            "longitude": 49.116220588951236
+          },
+          {
+            "latitude": 55.74047805098174,
+            "longitude": 49.118469133521124
+          },
+          {
+            "latitude": 55.74098619135332,
+            "longitude": 49.12163542556819
+          },
+          {
+            "latitude": 55.74281405585497,
+            "longitude": 49.122553366971424
+          },
+          {
+            "latitude": 55.74413378868155,
+            "longitude": 49.12030477566729
+          },
+          {
+            "latitude": 55.743625596144696,
+            "longitude": 49.11713828968636
+          },
+          {
+            "latitude": 55.741797722949165,
+            "longitude": 49.116220588951236
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476012,
+    "name": "Kazan Segment 59",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:47+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 54052,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.73773741494626,
+            "longitude": 49.14329431365294
+          },
+          {
+            "latitude": 55.73641710229111,
+            "longitude": 49.14554214193953
+          },
+          {
+            "latitude": 55.736924558323935,
+            "longitude": 49.148708920597684
+          },
+          {
+            "latitude": 55.7387523791254,
+            "longitude": 49.149628065033895
+          },
+          {
+            "latitude": 55.74007275266743,
+            "longitude": 49.147380190254246
+          },
+          {
+            "latitude": 55.7395652445185,
+            "longitude": 49.144213217523635
+          },
+          {
+            "latitude": 55.73773741494626,
+            "longitude": 49.14329431365294
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476011,
+    "name": "Kazan Segment 58",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:41+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 99970,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.78474943538781,
+            "longitude": 49.16404192082421
+          },
+          {
+            "latitude": 55.783429241069264,
+            "longitude": 49.16629183142391
+          },
+          {
+            "latitude": 55.783936486610564,
+            "longitude": 49.169462691337586
+          },
+          {
+            "latitude": 55.78576397854161,
+            "longitude": 49.1703838352773
+          },
+          {
+            "latitude": 55.78708423379521,
+            "longitude": 49.16813387826094
+          },
+          {
+            "latitude": 55.786576936180104,
+            "longitude": 49.16496282371363
+          },
+          {
+            "latitude": 55.78474943538781,
+            "longitude": 49.16404192082421
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476010,
+    "name": "Kazan Segment 57",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:35+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 39239,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.84454021307881,
+            "longitude": 49.13875532167636
+          },
+          {
+            "latitude": 55.84322130030313,
+            "longitude": 49.14100885249565
+          },
+          {
+            "latitude": 55.84372953561538,
+            "longitude": 49.14418341387348
+          },
+          {
+            "latitude": 55.845556735815535,
+            "longitude": 49.14510463943844
+          },
+          {
+            "latitude": 55.846875709530984,
+            "longitude": 49.14285106185432
+          },
+          {
+            "latitude": 55.846367422103924,
+            "longitude": 49.13967630546217
+          },
+          {
+            "latitude": 55.84454021307881,
+            "longitude": 49.13875532167636
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476009,
+    "name": "Kazan Segment 56",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:28+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 6753,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.766164660555305,
+            "longitude": 49.110985018612226
+          },
+          {
+            "latitude": 55.764845399087875,
+            "longitude": 49.113234940127306
+          },
+          {
+            "latitude": 55.765353819913834,
+            "longitude": 49.11640288186296
+          },
+          {
+            "latitude": 55.76718155437728,
+            "longitude": 49.11732109619643
+          },
+          {
+            "latitude": 55.76850087671119,
+            "longitude": 49.11507112784889
+          },
+          {
+            "latitude": 55.76799240371258,
+            "longitude": 49.11190299199252
+          },
+          {
+            "latitude": 55.766164660555305,
+            "longitude": 49.110985018612226
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476007,
+    "name": "Kazan Segment 55",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:22+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 17957,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.79223854864696,
+            "longitude": 49.23198279716342
+          },
+          {
+            "latitude": 55.79091696239034,
+            "longitude": 49.2342318316153
+          },
+          {
+            "latitude": 55.79142259884499,
+            "longitude": 49.237405216737315
+          },
+          {
+            "latitude": 55.79324987350193,
+            "longitude": 49.2383297625414
+          },
+          {
+            "latitude": 55.79457152077218,
+            "longitude": 49.23608068224199
+          },
+          {
+            "latitude": 55.79406583236927,
+            "longitude": 49.2329071019781
+          },
+          {
+            "latitude": 55.79223854864696,
+            "longitude": 49.23198279716342
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51476005,
+    "name": "Kazan Segment 54",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:16+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 19602,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.781975337977386,
+            "longitude": 49.24137770782688
+          },
+          {
+            "latitude": 55.78065342182386,
+            "longitude": 49.24362602713039
+          },
+          {
+            "latitude": 55.78115876515383,
+            "longitude": 49.246798923361055
+          },
+          {
+            "latitude": 55.782986076566644,
+            "longitude": 49.24772369538931
+          },
+          {
+            "latitude": 55.7843080537385,
+            "longitude": 49.24547533034117
+          },
+          {
+            "latitude": 55.78380265847664,
+            "longitude": 49.242302239001496
+          },
+          {
+            "latitude": 55.781975337977386,
+            "longitude": 49.24137770782688
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475984,
+    "name": "Kazan Segment 53",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:09+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 4611,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74961729778913,
+            "longitude": 49.12305886073139
+          },
+          {
+            "latitude": 55.74829757139976,
+            "longitude": 49.12530768870211
+          },
+          {
+            "latitude": 55.74880559450657,
+            "longitude": 49.1284747575963
+          },
+          {
+            "latitude": 55.75063339615223,
+            "longitude": 49.12939319256098
+          },
+          {
+            "latitude": 55.751953183412525,
+            "longitude": 49.127144317897674
+          },
+          {
+            "latitude": 55.751445108153646,
+            "longitude": 49.12397705495444
+          },
+          {
+            "latitude": 55.74961729778913,
+            "longitude": 49.12305886073139
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475949,
+    "name": "Kazan Segment 52",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:37:03+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 91695,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.772458452433234,
+            "longitude": 49.10832055583611
+          },
+          {
+            "latitude": 55.77113932574376,
+            "longitude": 49.11057085767003
+          },
+          {
+            "latitude": 55.77164785091718,
+            "longitude": 49.11373918766704
+          },
+          {
+            "latitude": 55.773475554954445,
+            "longitude": 49.114657409982776
+          },
+          {
+            "latitude": 55.774794742510835,
+            "longitude": 49.11240706127975
+          },
+          {
+            "latitude": 55.77428616516047,
+            "longitude": 49.10923853712224
+          },
+          {
+            "latitude": 55.772458452433234,
+            "longitude": 49.10832055583611
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475936,
+    "name": "Kazan Segment 51",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:36:57+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 12245,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.843916831687466,
+            "longitude": 49.10342770159903
+          },
+          {
+            "latitude": 55.84259868327628,
+            "longitude": 49.10568185799709
+          },
+          {
+            "latitude": 55.84310777523392,
+            "longitude": 49.10885534439717
+          },
+          {
+            "latitude": 55.84493506777965,
+            "longitude": 49.10977486917003
+          },
+          {
+            "latitude": 55.84625327709118,
+            "longitude": 49.107520665703824
+          },
+          {
+            "latitude": 55.845744132954046,
+            "longitude": 49.104346984525044
+          },
+          {
+            "latitude": 55.843916831687466,
+            "longitude": 49.10342770159903
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475854,
+    "name": "Kazan Segment 50",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:50+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 147144,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.827997421578786,
+            "longitude": 49.1508423757324
+          },
+          {
+            "latitude": 55.82667804271731,
+            "longitude": 49.1530948088536
+          },
+          {
+            "latitude": 55.827185880213904,
+            "longitude": 49.1562684930005
+          },
+          {
+            "latitude": 55.829013148663506,
+            "longitude": 49.157189938960265
+          },
+          {
+            "latitude": 55.83033258846903,
+            "longitude": 49.15493745921467
+          },
+          {
+            "latitude": 55.82982469887831,
+            "longitude": 49.15176358012582
+          },
+          {
+            "latitude": 55.827997421578786,
+            "longitude": 49.1508423757324
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475853,
+    "name": "Kazan Segment 49",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:44+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 536754,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.79124347137527,
+            "longitude": 49.12067408707634
+          },
+          {
+            "latitude": 55.78992430343419,
+            "longitude": 49.12292514712063
+          },
+          {
+            "latitude": 55.79043264573304,
+            "longitude": 49.12609522772073
+          },
+          {
+            "latitude": 55.79226020812306,
+            "longitude": 49.12701444268001
+          },
+          {
+            "latitude": 55.793579436954886,
+            "longitude": 49.12476333583173
+          },
+          {
+            "latitude": 55.79307104250335,
+            "longitude": 49.12159306082033
+          },
+          {
+            "latitude": 55.79124347137527,
+            "longitude": 49.12067408707634
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475852,
+    "name": "Kazan Segment 48",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:38+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 101616,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.80353105023901,
+            "longitude": 49.17642721204109
+          },
+          {
+            "latitude": 55.802210814214675,
+            "longitude": 49.1786778792671
+          },
+          {
+            "latitude": 55.802717875443044,
+            "longitude": 49.18185049106533
+          },
+          {
+            "latitude": 55.804545224742476,
+            "longitude": 49.1827726305146
+          },
+          {
+            "latitude": 55.8058655217257,
+            "longitude": 49.18052191693788
+          },
+          {
+            "latitude": 55.805358408447965,
+            "longitude": 49.17734911025469
+          },
+          {
+            "latitude": 55.80353105023901,
+            "longitude": 49.17642721204109
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475849,
+    "name": "Kazan Segment 47",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:31+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 50331,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.807877415406196,
+            "longitude": 49.08822977744974
+          },
+          {
+            "latitude": 55.806559159217834,
+            "longitude": 49.09048231649391
+          },
+          {
+            "latitude": 55.807068395512346,
+            "longitude": 49.0936526853282
+          },
+          {
+            "latitude": 55.80889594020316,
+            "longitude": 49.09457070946211
+          },
+          {
+            "latitude": 55.81021425725538,
+            "longitude": 49.09231812329828
+          },
+          {
+            "latitude": 55.80970496875035,
+            "longitude": 49.089147560112366
+          },
+          {
+            "latitude": 55.807877415406196,
+            "longitude": 49.08822977744974
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475847,
+    "name": "Kazan Segment 46",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:25+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 83440,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.83061604791345,
+            "longitude": 49.093822799986086
+          },
+          {
+            "latitude": 55.82929794695298,
+            "longitude": 49.09607643351185
+          },
+          {
+            "latitude": 55.82980718956024,
+            "longitude": 49.099248652281474
+          },
+          {
+            "latitude": 55.83163458532366,
+            "longitude": 49.1001674321124
+          },
+          {
+            "latitude": 55.83295274716656,
+            "longitude": 49.09791375146502
+          },
+          {
+            "latitude": 55.832443452361034,
+            "longitude": 49.09474133810049
+          },
+          {
+            "latitude": 55.83061604791345,
+            "longitude": 49.093822799986086
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475846,
+    "name": "Kazan Segment 45",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:19+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 70201,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74484583536546,
+            "longitude": 49.13522047837479
+          },
+          {
+            "latitude": 55.743525785357974,
+            "longitude": 49.137468829790365
+          },
+          {
+            "latitude": 55.744033482530845,
+            "longitude": 49.14063589935243
+          },
+          {
+            "latitude": 55.745861281838835,
+            "longitude": 49.14155481157569
+          },
+          {
+            "latitude": 55.74718139272814,
+            "longitude": 49.139306413582325
+          },
+          {
+            "latitude": 55.74667364342502,
+            "longitude": 49.13613914993568
+          },
+          {
+            "latitude": 55.74484583536546,
+            "longitude": 49.13522047837479
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475845,
+    "name": "Kazan Segment 44",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:12+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 54119,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.766975236024535,
+            "longitude": 49.10556710975823
+          },
+          {
+            "latitude": 55.76565610280123,
+            "longitude": 49.10781717453762
+          },
+          {
+            "latitude": 55.766164660555305,
+            "longitude": 49.110985018612226
+          },
+          {
+            "latitude": 55.76799240371258,
+            "longitude": 49.11190299199252
+          },
+          {
+            "latitude": 55.76931159779681,
+            "longitude": 49.10965288033239
+          },
+          {
+            "latitude": 55.76880298786025,
+            "longitude": 49.106484842164875
+          },
+          {
+            "latitude": 55.766975236024535,
+            "longitude": 49.10556710975823
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475842,
+    "name": "Kazan Segment 43",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:06+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 87318,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.75245447552181,
+            "longitude": 49.182740604695596
+          },
+          {
+            "latitude": 55.75113348022894,
+            "longitude": 49.18498847034886
+          },
+          {
+            "latitude": 55.75164006811358,
+            "longitude": 49.188157481900305
+          },
+          {
+            "latitude": 55.7534677033309,
+            "longitude": 49.189078822251886
+          },
+          {
+            "latitude": 55.754788759561926,
+            "longitude": 49.18683091041264
+          },
+          {
+            "latitude": 55.7542821196349,
+            "longitude": 49.18366170439993
+          },
+          {
+            "latitude": 55.75245447552181,
+            "longitude": 49.182740604695596
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475839,
+    "name": "Kazan Segment 42",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:35:00+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 11422,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.84148886506724,
+            "longitude": 49.11971049270976
+          },
+          {
+            "latitude": 55.840170331136015,
+            "longitude": 49.12196421770268
+          },
+          {
+            "latitude": 55.84067901134813,
+            "longitude": 49.125137998030546
+          },
+          {
+            "latitude": 55.84250627763879,
+            "longitude": 49.1260582482202
+          },
+          {
+            "latitude": 55.84382487248708,
+            "longitude": 49.12380447630487
+          },
+          {
+            "latitude": 55.84331614012505,
+            "longitude": 49.12063050111445
+          },
+          {
+            "latitude": 55.84148886506724,
+            "longitude": 49.11971049270976
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475838,
+    "name": "Kazan Segment 41",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:34:53+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 26653,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.802303375344444,
+            "longitude": 49.10583197050371
+          },
+          {
+            "latitude": 55.80098466648526,
+            "longitude": 49.10808388876555
+          },
+          {
+            "latitude": 55.80149343940537,
+            "longitude": 49.11125435707855
+          },
+          {
+            "latitude": 55.80332097336088,
+            "longitude": 49.112173101537266
+          },
+          {
+            "latitude": 55.80463974310041,
+            "longitude": 49.109921136319485
+          },
+          {
+            "latitude": 55.80413091800145,
+            "longitude": 49.10675047359106
+          },
+          {
+            "latitude": 55.802303375344444,
+            "longitude": 49.10583197050371
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475821,
+    "name": "Kazan Segment 40",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:47+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 138332,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74463699958315,
+            "longitude": 49.17588877056206
+          },
+          {
+            "latitude": 55.74331605894191,
+            "longitude": 49.178136353838
+          },
+          {
+            "latitude": 55.74382276471823,
+            "longitude": 49.18130458848562
+          },
+          {
+            "latitude": 55.74565046318892,
+            "longitude": 49.18222543419537
+          },
+          {
+            "latitude": 55.74697146475659,
+            "longitude": 49.17997780469138
+          },
+          {
+            "latitude": 55.74646470692458,
+            "longitude": 49.17680937569783
+          },
+          {
+            "latitude": 55.74463699958315,
+            "longitude": 49.17588877056206
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475820,
+    "name": "Kazan Segment 39",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:41+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 399736,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.748379786540696,
+            "longitude": 49.2098245200745
+          },
+          {
+            "latitude": 55.74705815058598,
+            "longitude": 49.21207166643226
+          },
+          {
+            "latitude": 55.74756405314851,
+            "longitude": 49.21524116147584
+          },
+          {
+            "latitude": 55.7493916436562,
+            "longitude": 49.21616370475315
+          },
+          {
+            "latitude": 55.750713340576624,
+            "longitude": 49.21391651245104
+          },
+          {
+            "latitude": 55.75020738602109,
+            "longitude": 49.210746822808105
+          },
+          {
+            "latitude": 55.748379786540696,
+            "longitude": 49.2098245200745
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475812,
+    "name": "Kazan Segment 38",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:34+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 479075,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.78494987998469,
+            "longitude": 49.12333808147098
+          },
+          {
+            "latitude": 55.78363057719821,
+            "longitude": 49.12558876087712
+          },
+          {
+            "latitude": 55.784138815198176,
+            "longitude": 49.128758452714465
+          },
+          {
+            "latitude": 55.78596640813041,
+            "longitude": 49.1296776595092
+          },
+          {
+            "latitude": 55.787285771807156,
+            "longitude": 49.12742693333576
+          },
+          {
+            "latitude": 55.786777481658824,
+            "longitude": 49.12425704712702
+          },
+          {
+            "latitude": 55.78494987998469,
+            "longitude": 49.12333808147098
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475810,
+    "name": "Kazan Segment 37",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:28+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 4446,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.75896018824564,
+            "longitude": 49.1394039077491
+          },
+          {
+            "latitude": 55.757640218337954,
+            "longitude": 49.14165292231023
+          },
+          {
+            "latitude": 55.75814790226441,
+            "longitude": 49.14482115723526
+          },
+          {
+            "latitude": 55.759975608217225,
+            "longitude": 49.14574057183098
+          },
+          {
+            "latitude": 55.76129563901892,
+            "longitude": 49.143491510697295
+          },
+          {
+            "latitude": 55.76078790297117,
+            "longitude": 49.1403230815326
+          },
+          {
+            "latitude": 55.75896018824564,
+            "longitude": 49.1394039077491
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475804,
+    "name": "Kazan Segment 36",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:22+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 15189,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.781857099461,
+            "longitude": 49.26173984402935
+          },
+          {
+            "latitude": 55.7805347376617,
+            "longitude": 49.263987775467385
+          },
+          {
+            "latitude": 55.781039583621826,
+            "longitude": 49.26716125198439
+          },
+          {
+            "latitude": 55.78286684327299,
+            "longitude": 49.26808699229501
+          },
+          {
+            "latitude": 55.78418926611274,
+            "longitude": 49.265839015288165
+          },
+          {
+            "latitude": 55.783684368258285,
+            "longitude": 49.26266534353158
+          },
+          {
+            "latitude": 55.781857099461,
+            "longitude": 49.26173984402935
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475803,
+    "name": "Kazan Segment 35",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:15+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 42694,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.730730750101095,
+            "longitude": 49.13103989968585
+          },
+          {
+            "latitude": 55.72941062007208,
+            "longitude": 49.13328758831337
+          },
+          {
+            "latitude": 55.72991833031167,
+            "longitude": 49.13645349333111
+          },
+          {
+            "latitude": 55.73174622271685,
+            "longitude": 49.137371903643185
+          },
+          {
+            "latitude": 55.73306641361548,
+            "longitude": 49.13512416843267
+          },
+          {
+            "latitude": 55.73255865123673,
+            "longitude": 49.13195806948525
+          },
+          {
+            "latitude": 55.730730750101095,
+            "longitude": 49.13103989968585
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475802,
+    "name": "Kazan Segment 34",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:09+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 22143,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74017439475805,
+            "longitude": 49.12705021644297
+          },
+          {
+            "latitude": 55.73885446649686,
+            "longitude": 49.12929847461299
+          },
+          {
+            "latitude": 55.739362333160386,
+            "longitude": 49.13246496147945
+          },
+          {
+            "latitude": 55.741190180228116,
+            "longitude": 49.133383384157455
+          },
+          {
+            "latitude": 55.742510169359555,
+            "longitude": 49.13113507934968
+          },
+          {
+            "latitude": 55.74200225055043,
+            "longitude": 49.12796839849386
+          },
+          {
+            "latitude": 55.74017439475805,
+            "longitude": 49.12705021644297
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475801,
+    "name": "Kazan Segment 33",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:33:03+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 30581,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.81124049437596,
+            "longitude": 49.20365847612405
+          },
+          {
+            "latitude": 55.809919757790624,
+            "longitude": 49.205909039992214
+          },
+          {
+            "latitude": 55.81042620340595,
+            "longitude": 49.20908301389984
+          },
+          {
+            "latitude": 55.81225343760269,
+            "longitude": 49.210006619063186
+          },
+          {
+            "latitude": 55.81357423518103,
+            "longitude": 49.20775600906241
+          },
+          {
+            "latitude": 55.81306773756703,
+            "longitude": 49.20458184002298
+          },
+          {
+            "latitude": 55.81124049437596,
+            "longitude": 49.20365847612405
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475800,
+    "name": "Kazan Segment 32",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:32:56+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 7361,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.763017640729664,
+            "longitude": 49.112316970713195
+          },
+          {
+            "latitude": 55.76169831189056,
+            "longitude": 49.114566702111965
+          },
+          {
+            "latitude": 55.76220668054601,
+            "longitude": 49.1177344497468
+          },
+          {
+            "latitude": 55.764034430208476,
+            "longitude": 49.11865266007585
+          },
+          {
+            "latitude": 55.765353819913834,
+            "longitude": 49.11640288186296
+          },
+          {
+            "latitude": 55.764845399087875,
+            "longitude": 49.113234940127306
+          },
+          {
+            "latitude": 55.763017640729664,
+            "longitude": 49.112316970713195
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475798,
+    "name": "Kazan Segment 31",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:32:50+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 122010,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.825942322395946,
+            "longitude": 49.08564251180212
+          },
+          {
+            "latitude": 55.82462434318286,
+            "longitude": 49.08789605099445
+          },
+          {
+            "latitude": 55.825133755657795,
+            "longitude": 49.091067684428104
+          },
+          {
+            "latitude": 55.826961199556806,
+            "longitude": 49.09198597316072
+          },
+          {
+            "latitude": 55.828279239640686,
+            "longitude": 49.08973238678664
+          },
+          {
+            "latitude": 55.827769774952145,
+            "longitude": 49.08656055885387
+          },
+          {
+            "latitude": 55.825942322395946,
+            "longitude": 49.08564251180212
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475783,
+    "name": "Kazan Segment 30",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:43+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 2154,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.81042620340595,
+            "longitude": 49.20908301389984
+          },
+          {
+            "latitude": 55.80910533848458,
+            "longitude": 49.21133343342151
+          },
+          {
+            "latitude": 55.809611646764104,
+            "longitude": 49.21450750419854
+          },
+          {
+            "latitude": 55.81143887195113,
+            "longitude": 49.21543135060547
+          },
+          {
+            "latitude": 55.81275979787097,
+            "longitude": 49.213180884999716
+          },
+          {
+            "latitude": 55.81225343760269,
+            "longitude": 49.210006619063186
+          },
+          {
+            "latitude": 55.81042620340595,
+            "longitude": 49.20908301389984
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475782,
+    "name": "Kazan Segment 29",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:37+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 23063,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.7638956122078,
+            "longitude": 49.24389873482258
+          },
+          {
+            "latitude": 55.762573421221106,
+            "longitude": 49.24614605784529
+          },
+          {
+            "latitude": 55.763078590238585,
+            "longitude": 49.249317687596836
+          },
+          {
+            "latitude": 55.764906002168985,
+            "longitude": 49.250242189278374
+          },
+          {
+            "latitude": 55.766228254166926,
+            "longitude": 49.247994820571364
+          },
+          {
+            "latitude": 55.765723033220624,
+            "longitude": 49.2448229958592
+          },
+          {
+            "latitude": 55.7638956122078,
+            "longitude": 49.24389873482258
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475779,
+    "name": "Kazan Segment 28",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:31+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 30356,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74341999115427,
+            "longitude": 49.10539077887547
+          },
+          {
+            "latitude": 55.742100575505525,
+            "longitude": 49.107639609693884
+          },
+          {
+            "latitude": 55.74260898954849,
+            "longitude": 49.110805706688275
+          },
+          {
+            "latitude": 55.74443687142254,
+            "longitude": 49.111723166734755
+          },
+          {
+            "latitude": 55.74575634791936,
+            "longitude": 49.10947428908559
+          },
+          {
+            "latitude": 55.74524788169146,
+            "longitude": 49.10630799821285
+          },
+          {
+            "latitude": 55.74341999115427,
+            "longitude": 49.10539077887547
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475776,
+    "name": "Kazan Segment 27",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:23+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 132559,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.77134467213655,
+            "longitude": 49.17477608518262
+          },
+          {
+            "latitude": 55.770024080328305,
+            "longitude": 49.17702509114782
+          },
+          {
+            "latitude": 55.770530980499586,
+            "longitude": 49.180195269766884
+          },
+          {
+            "latitude": 55.772358524531846,
+            "longitude": 49.181116636994155
+          },
+          {
+            "latitude": 55.7736791772797,
+            "longitude": 49.178867584733695
+          },
+          {
+            "latitude": 55.77317222505311,
+            "longitude": 49.17569721153334
+          },
+          {
+            "latitude": 55.77134467213655,
+            "longitude": 49.17477608518262
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475773,
+    "name": "Kazan Segment 26",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:10+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 122642,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.80086911695802,
+            "longitude": 49.23343105682793
+          },
+          {
+            "latitude": 55.799547604198644,
+            "longitude": 49.23568051779833
+          },
+          {
+            "latitude": 55.800053259152136,
+            "longitude": 49.238854584985525
+          },
+          {
+            "latitude": 55.801880478807206,
+            "longitude": 49.23977938642442
+          },
+          {
+            "latitude": 55.803202052586485,
+            "longitude": 49.23752987960048
+          },
+          {
+            "latitude": 55.802696345688176,
+            "longitude": 49.2343556171833
+          },
+          {
+            "latitude": 55.80086911695802,
+            "longitude": 49.23343105682793
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475744,
+    "name": "Kazan Segment 25",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:31:04+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 166936,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.746861445471495,
+            "longitude": 49.20031671250026
+          },
+          {
+            "latitude": 55.74553999859096,
+            "longitude": 49.202563956769765
+          },
+          {
+            "latitude": 55.746046123299,
+            "longitude": 49.20573306406776
+          },
+          {
+            "latitude": 55.74787374689557,
+            "longitude": 49.206655121612435
+          },
+          {
+            "latitude": 55.74919525473052,
+            "longitude": 49.20440783132009
+          },
+          {
+            "latitude": 55.748689078011886,
+            "longitude": 49.20123852949799
+          },
+          {
+            "latitude": 55.746861445471495,
+            "longitude": 49.20031671250026
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475742,
+    "name": "Kazan Segment 24",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:30:57+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 41818,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.77449274957352,
+            "longitude": 49.173448015415474
+          },
+          {
+            "latitude": 55.77317222505311,
+            "longitude": 49.17569721153334
+          },
+          {
+            "latitude": 55.7736791772797,
+            "longitude": 49.178867584733695
+          },
+          {
+            "latitude": 55.77550670608157,
+            "longitude": 49.179788956409645
+          },
+          {
+            "latitude": 55.77682729154184,
+            "longitude": 49.17753971397828
+          },
+          {
+            "latitude": 55.776320287257796,
+            "longitude": 49.17436914617659
+          },
+          {
+            "latitude": 55.77449274957352,
+            "longitude": 49.173448015415474
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475739,
+    "name": "Kazan Segment 23",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:30:51+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 620765,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.76797674146523,
+            "longitude": 49.21680325281091
+          },
+          {
+            "latitude": 55.76665519130105,
+            "longitude": 49.21905129701057
+          },
+          {
+            "latitude": 55.76716104634977,
+            "longitude": 49.22222244464423
+          },
+          {
+            "latitude": 55.76898850353845,
+            "longitude": 49.22314574289295
+          },
+          {
+            "latitude": 55.77031011468652,
+            "longitude": 49.22089765276697
+          },
+          {
+            "latitude": 55.76980420765941,
+            "longitude": 49.21772631031069
+          },
+          {
+            "latitude": 55.76797674146523,
+            "longitude": 49.21680325281091
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475702,
+    "name": "Kazan Segment 22",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:30:45+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 229384,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.82078978839886,
+            "longitude": 49.179301800544074
+          },
+          {
+            "latitude": 55.8194697000359,
+            "longitude": 49.18155332251226
+          },
+          {
+            "latitude": 55.81997679898202,
+            "longitude": 49.1847272984169
+          },
+          {
+            "latitude": 55.82180403833106,
+            "longitude": 49.18564994740643
+          },
+          {
+            "latitude": 55.82312418766547,
+            "longitude": 49.18339837907495
+          },
+          {
+            "latitude": 55.82261703667679,
+            "longitude": 49.18022420810933
+          },
+          {
+            "latitude": 55.82078978839886,
+            "longitude": 49.179301800544074
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475678,
+    "name": "Kazan Segment 21",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:30:38+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 45502,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.77334399962361,
+            "longitude": 49.239928423175726
+          },
+          {
+            "latitude": 55.77202201010972,
+            "longitude": 49.24217631641557
+          },
+          {
+            "latitude": 55.77252733492021,
+            "longitude": 49.24534853110939
+          },
+          {
+            "latitude": 55.774354701177295,
+            "longitude": 49.246273047576466
+          },
+          {
+            "latitude": 55.77567675170323,
+            "longitude": 49.24402510859796
+          },
+          {
+            "latitude": 55.775171374957424,
+            "longitude": 49.240852698883124
+          },
+          {
+            "latitude": 55.77334399962361,
+            "longitude": 49.239928423175726
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475657,
+    "name": "Kazan Segment 20",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:32+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 86602,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.83043045143644,
+            "longitude": 49.13456374556296
+          },
+          {
+            "latitude": 55.829111457895756,
+            "longitude": 49.136816610565845
+          },
+          {
+            "latitude": 55.829619707187106,
+            "longitude": 49.1399900019169
+          },
+          {
+            "latitude": 55.83144700214025,
+            "longitude": 49.1409107231155
+          },
+          {
+            "latitude": 55.83276605660834,
+            "longitude": 49.13865781134252
+          },
+          {
+            "latitude": 55.832257755193275,
+            "longitude": 49.13548422513316
+          },
+          {
+            "latitude": 55.83043045143644,
+            "longitude": 49.13456374556296
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475656,
+    "name": "Kazan Segment 19",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:26+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 33917,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.762379471000784,
+            "longitude": 49.234384522110595
+          },
+          {
+            "latitude": 55.76105746916603,
+            "longitude": 49.23663194368124
+          },
+          {
+            "latitude": 55.76156286067664,
+            "longitude": 49.23980318587594
+          },
+          {
+            "latitude": 55.76339030596596,
+            "longitude": 49.240727201377474
+          },
+          {
+            "latitude": 55.76471236880078,
+            "longitude": 49.23847973404387
+          },
+          {
+            "latitude": 55.76420692534364,
+            "longitude": 49.23530829696379
+          },
+          {
+            "latitude": 55.762379471000784,
+            "longitude": 49.234384522110595
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475650,
+    "name": "Kazan Segment 18",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:19+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 67983,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.811347484047324,
+            "longitude": 49.18328859890312
+          },
+          {
+            "latitude": 55.810027193478376,
+            "longitude": 49.18553954927479
+          },
+          {
+            "latitude": 55.81053413630981,
+            "longitude": 49.18871294011704
+          },
+          {
+            "latitude": 55.812361421743645,
+            "longitude": 49.18963557558046
+          },
+          {
+            "latitude": 55.813681773283285,
+            "longitude": 49.187384578900286
+          },
+          {
+            "latitude": 55.81317477841578,
+            "longitude": 49.18421099305732
+          },
+          {
+            "latitude": 55.811347484047324,
+            "longitude": 49.18328859890312
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475649,
+    "name": "Kazan Segment 17",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:13+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 380381,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.7820901989957,
+            "longitude": 49.22101770057802
+          },
+          {
+            "latitude": 55.78076872850632,
+            "longitude": 49.223266407085866
+          },
+          {
+            "latitude": 55.78127456898411,
+            "longitude": 49.226438722332816
+          },
+          {
+            "latitude": 55.783101931918054,
+            "longitude": 49.22736252604243
+          },
+          {
+            "latitude": 55.78442346340359,
+            "longitude": 49.22511377361428
+          },
+          {
+            "latitude": 55.78391757095644,
+            "longitude": 49.22194126338893
+          },
+          {
+            "latitude": 55.7820901989957,
+            "longitude": 49.22101770057802
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475647,
+    "name": "Kazan Segment 16",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:07+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 4732,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.747281303572265,
+            "longitude": 49.118973939850456
+          },
+          {
+            "latitude": 55.74596163804806,
+            "longitude": 49.12122272109857
+          },
+          {
+            "latitude": 55.74646974588323,
+            "longitude": 49.124389498527634
+          },
+          {
+            "latitude": 55.74829757139976,
+            "longitude": 49.12530768870211
+          },
+          {
+            "latitude": 55.74961729778913,
+            "longitude": 49.12305886073139
+          },
+          {
+            "latitude": 55.74910913779421,
+            "longitude": 49.119891889300966
+          },
+          {
+            "latitude": 55.747281303572265,
+            "longitude": 49.118973939850456
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475644,
+    "name": "Kazan Segment 15",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:29:00+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 221164,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.8335766812031,
+            "longitude": 49.13323116942711
+          },
+          {
+            "latitude": 55.832257755193275,
+            "longitude": 49.13548422513316
+          },
+          {
+            "latitude": 55.83276605660834,
+            "longitude": 49.13865781134252
+          },
+          {
+            "latitude": 55.834593336156544,
+            "longitude": 49.139578536716336
+          },
+          {
+            "latitude": 55.83591232309405,
+            "longitude": 49.13732543422181
+          },
+          {
+            "latitude": 55.83540396955307,
+            "longitude": 49.134151653134076
+          },
+          {
+            "latitude": 55.8335766812031,
+            "longitude": 49.13323116942711
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475643,
+    "name": "Kazan Segment 14",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:28:54+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 56650,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.83448018725374,
+            "longitude": 49.10743177320135
+          },
+          {
+            "latitude": 55.833161836038826,
+            "longitude": 49.10968535724609
+          },
+          {
+            "latitude": 55.8336707714709,
+            "longitude": 49.11285825943005
+          },
+          {
+            "latitude": 55.83549811028831,
+            "longitude": 49.11377777228011
+          },
+          {
+            "latitude": 55.83681652240287,
+            "longitude": 49.11152414122249
+          },
+          {
+            "latitude": 55.83630753479775,
+            "longitude": 49.10835104431981
+          },
+          {
+            "latitude": 55.83448018725374,
+            "longitude": 49.10743177320135
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475641,
+    "name": "Kazan Segment 13",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:28:48+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 1088,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.74494520080952,
+            "longitude": 49.11488955519077
+          },
+          {
+            "latitude": 55.743625596144696,
+            "longitude": 49.11713828968636
+          },
+          {
+            "latitude": 55.74413378868155,
+            "longitude": 49.12030477566729
+          },
+          {
+            "latitude": 55.74596163804806,
+            "longitude": 49.12122272109857
+          },
+          {
+            "latitude": 55.747281303572265,
+            "longitude": 49.118973939850456
+          },
+          {
+            "latitude": 55.74677305886798,
+            "longitude": 49.11580725991576
+          },
+          {
+            "latitude": 55.74494520080952,
+            "longitude": 49.11488955519077
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475638,
+    "name": "Kazan Segment 12",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:28:41+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 45359,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.76808831365031,
+            "longitude": 49.1964525419412
+          },
+          {
+            "latitude": 55.76676720901701,
+            "longitude": 49.19870097229202
+          },
+          {
+            "latitude": 55.76727356071166,
+            "longitude": 49.201871538485335
+          },
+          {
+            "latitude": 55.76910106905279,
+            "longitude": 49.20279386901192
+          },
+          {
+            "latitude": 55.770422234647725,
+            "longitude": 49.20054539255933
+          },
+          {
+            "latitude": 55.7699158309373,
+            "longitude": 49.19737463167402
+          },
+          {
+            "latitude": 55.76808831365031,
+            "longitude": 49.1964525419412
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475637,
+    "name": "Kazan Segment 11",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:28:35+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 127209,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.764011895604625,
+            "longitude": 49.22354705118993
+          },
+          {
+            "latitude": 55.762690150081596,
+            "longitude": 49.22579476117231
+          },
+          {
+            "latitude": 55.76319581597586,
+            "longitude": 49.228965810516485
+          },
+          {
+            "latitude": 55.7650232793569,
+            "longitude": 49.229889344700524
+          },
+          {
+            "latitude": 55.76634508586904,
+            "longitude": 49.22764158885836
+          },
+          {
+            "latitude": 55.765839368008436,
+            "longitude": 49.22447034468403
+          },
+          {
+            "latitude": 55.764011895604625,
+            "longitude": 49.22354705118993
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475594,
+    "name": "Kazan Segment 10",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:27:29+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 122212,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.753268617741654,
+            "longitude": 49.17732368061886
+          },
+          {
+            "latitude": 55.75194775060002,
+            "longitude": 49.179571690017916
+          },
+          {
+            "latitude": 55.75245447552181,
+            "longitude": 49.182740604695596
+          },
+          {
+            "latitude": 55.7542821196349,
+            "longitude": 49.18366170439993
+          },
+          {
+            "latitude": 55.7556030477092,
+            "longitude": 49.181413648766565
+          },
+          {
+            "latitude": 55.755096270735145,
+            "longitude": 49.17824453965531
+          },
+          {
+            "latitude": 55.753268617741654,
+            "longitude": 49.17732368061886
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475593,
+    "name": "Kazan Segment 9",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:27:22+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 107479,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.76108589526065,
+            "longitude": 49.18417721090831
+          },
+          {
+            "latitude": 55.75976497347781,
+            "longitude": 49.18642550277293
+          },
+          {
+            "latitude": 55.76027158042022,
+            "longitude": 49.189595194666424
+          },
+          {
+            "latitude": 55.762099161181844,
+            "longitude": 49.1905167892364
+          },
+          {
+            "latitude": 55.76342014390909,
+            "longitude": 49.188268451179546
+          },
+          {
+            "latitude": 55.76291348492771,
+            "longitude": 49.18509856473709
+          },
+          {
+            "latitude": 55.76108589526065,
+            "longitude": 49.18417721090831
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475586,
+    "name": "Kazan Segment 8",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:27:16+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 2028,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.791646578049324,
+            "longitude": 49.19667920343844
+          },
+          {
+            "latitude": 55.79032575510131,
+            "longitude": 49.19892886727539
+          },
+          {
+            "latitude": 55.790832248531444,
+            "longitude": 49.202101185445265
+          },
+          {
+            "latitude": 55.79265961692024,
+            "longitude": 49.20302403467818
+          },
+          {
+            "latitude": 55.79398050084292,
+            "longitude": 49.20077432469068
+          },
+          {
+            "latitude": 55.79347395539954,
+            "longitude": 49.197601811612884
+          },
+          {
+            "latitude": 55.791646578049324,
+            "longitude": 49.19667920343844
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475585,
+    "name": "Kazan Segment 7",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:27:10+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 375865,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.7452305359486,
+            "longitude": 49.21114936836132
+          },
+          {
+            "latitude": 55.743908832845804,
+            "longitude": 49.21339632482052
+          },
+          {
+            "latitude": 55.74441468341752,
+            "longitude": 49.21656562528478
+          },
+          {
+            "latitude": 55.74624228908029,
+            "longitude": 49.21748816386124
+          },
+          {
+            "latitude": 55.74756405314851,
+            "longitude": 49.21524116147584
+          },
+          {
+            "latitude": 55.74705815058598,
+            "longitude": 49.21207166643226
+          },
+          {
+            "latitude": 55.7452305359486,
+            "longitude": 49.21114936836132
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475581,
+    "name": "Kazan Segment 6",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:27:03+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 160159,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.81344826499145,
+            "longitude": 49.070624681072935
+          },
+          {
+            "latitude": 55.81213046161164,
+            "longitude": 49.07287784064829
+          },
+          {
+            "latitude": 55.8126401612587,
+            "longitude": 49.07604810932929
+          },
+          {
+            "latitude": 55.81446771652517,
+            "longitude": 49.0769654127148
+          },
+          {
+            "latitude": 55.815785580752305,
+            "longitude": 49.07471220585604
+          },
+          {
+            "latitude": 55.81527582886308,
+            "longitude": 49.07154174288735
+          },
+          {
+            "latitude": 55.81344826499145,
+            "longitude": 49.070624681072935
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475579,
+    "name": "Kazan Segment 5",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:26:57+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 14466,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.76575428338818,
+            "longitude": 49.1923602281692
+          },
+          {
+            "latitude": 55.76443323971081,
+            "longitude": 49.19460861238815
+          },
+          {
+            "latitude": 55.76493967651475,
+            "longitude": 49.19777888713134
+          },
+          {
+            "latitude": 55.76676720901701,
+            "longitude": 49.19870097229202
+          },
+          {
+            "latitude": 55.76808831365031,
+            "longitude": 49.1964525419412
+          },
+          {
+            "latitude": 55.76758182482284,
+            "longitude": 49.193282072553664
+          },
+          {
+            "latitude": 55.76575428338818,
+            "longitude": 49.1923602281692
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475578,
+    "name": "Kazan Segment 4",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:26:51+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 103434,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.80401779117481,
+            "longitude": 49.232105965834144
+          },
+          {
+            "latitude": 55.802696345688176,
+            "longitude": 49.2343556171833
+          },
+          {
+            "latitude": 55.803202052586485,
+            "longitude": 49.23752987960048
+          },
+          {
+            "latitude": 55.805029256915766,
+            "longitude": 49.23845468591074
+          },
+          {
+            "latitude": 55.80635076342256,
+            "longitude": 49.236204988689856
+          },
+          {
+            "latitude": 55.805845004577314,
+            "longitude": 49.23303053102253
+          },
+          {
+            "latitude": 55.80401779117481,
+            "longitude": 49.232105965834144
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475576,
+    "name": "Kazan Segment 3",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:26:44+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 13240,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.7386501626585,
+            "longitude": 49.11755143678474
+          },
+          {
+            "latitude": 55.73733042340007,
+            "longitude": 49.11979979145763
+          },
+          {
+            "latitude": 55.73783851160851,
+            "longitude": 49.12296588959069
+          },
+          {
+            "latitude": 55.739666391235914,
+            "longitude": 49.123883826957034
+          },
+          {
+            "latitude": 55.74098619135332,
+            "longitude": 49.12163542556819
+          },
+          {
+            "latitude": 55.74047805098174,
+            "longitude": 49.118469133521124
+          },
+          {
+            "latitude": 55.7386501626585,
+            "longitude": 49.11755143678474
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475575,
+    "name": "Kazan Segment 2",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:26:38+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 46672,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.81893091730682,
+            "longitude": 49.07337611549273
+          },
+          {
+            "latitude": 55.81761312067127,
+            "longitude": 49.07562951295952
+          },
+          {
+            "latitude": 55.81812278774704,
+            "longitude": 49.078800268518556
+          },
+          {
+            "latitude": 55.819950303692416,
+            "longitude": 49.079717820958386
+          },
+          {
+            "latitude": 55.82126816118132,
+            "longitude": 49.07746437621971
+          },
+          {
+            "latitude": 55.8207584418689,
+            "longitude": 49.07429342630525
+          },
+          {
+            "latitude": 55.81893091730682,
+            "longitude": 49.07337611549273
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  },
+  {
+    "id": 51475573,
+    "name": "Kazan Segment 1",
+    "type": "geo",
+    "status": "processed",
+    "create_time": "2026-02-10T09:26:32+03:00",
+    "owner": "sa.sergey@rim-m.ru",
+    "has_guests": false,
+    "guest_quantity": 0,
+    "can_create_dependent": true,
+    "has_derivatives": false,
+    "cookies_matched_quantity": 52971,
+    "geo_segment_type": "regular",
+    "times_quantity": 0,
+    "period_length": 0,
+    "form": "polygon",
+    "polygons": [
+      {
+        "points": [
+          {
+            "latitude": 55.7593451868426,
+            "longitude": 49.21535958612655
+          },
+          {
+            "latitude": 55.75802356328057,
+            "longitude": 49.217607204298716
+          },
+          {
+            "latitude": 55.758529399556444,
+            "longitude": 49.22077767106845
+          },
+          {
+            "latitude": 55.76035691137358,
+            "longitude": 49.22170071439296
+          },
+          {
+            "latitude": 55.76167859591324,
+            "longitude": 49.21945305030056
+          },
+          {
+            "latitude": 55.76117270765557,
+            "longitude": 49.216282388796024
+          },
+          {
+            "latitude": 55.7593451868426,
+            "longitude": 49.21535958612655
+          }
+        ]
+      }
+    ],
+    "too_much_data": false,
+    "guest": false
+  }
+]
