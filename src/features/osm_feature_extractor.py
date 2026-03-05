@@ -71,9 +71,15 @@ class OSMFeatureExtractor:
             tags={"landuse": True}
         )        
 
+        buildings = ox.features_from_bbox(
+            bbox=bbox,
+            tags={"building": True}
+        )   
+
         poi_features = self._aggregate_poi(poi)
         road_features = self._aggregate_roads(roads)
         landuse_features = self._aggregate_landuse(landuse)
+        building_features = self._aggregate_buildings(buildings)        
 
         base = pd.DataFrame({"h3_9": hex_ids})
 
@@ -81,6 +87,7 @@ class OSMFeatureExtractor:
             base.merge(poi_features, on="h3_9", how="left")
                 .merge(road_features, on="h3_9", how="left")
                 .merge(landuse_features, on="h3_9", how="left")
+                .merge(building_features, on="h3_9", how="left")
         )
         df = df.copy() 
 
@@ -240,3 +247,91 @@ class OSMFeatureExtractor:
 
         rename = {c: f"landuse_cnt_{c}" for c in agg.columns if c != "h3_9"}
         return agg.rename(columns=rename)
+    
+    def _aggregate_buildings(self, buildings_gdf) -> pd.DataFrame:
+
+        if buildings_gdf is None or len(buildings_gdf) == 0:
+            return pd.DataFrame(columns=["h3_9"])
+
+        g = buildings_gdf.copy()
+
+        # работаем в метрах
+        g = g.to_crs(epsg=3857)
+
+        # площадь здания
+        g["area"] = g.geometry.area
+
+        # centroid
+        g["centroid"] = g.geometry.centroid
+
+        # назад в lat/lon
+        g = g.to_crs(epsg=4326)
+
+        g["lat"] = g["centroid"].y
+        g["lon"] = g["centroid"].x
+
+        g["h3_9"] = g.apply(
+            lambda r: self._hex_id(r["lat"], r["lon"]),
+            axis=1
+        )
+
+        def normalize_building(v):
+
+            if not isinstance(v, str):
+                return "other"
+
+            if v in [
+                "residential",
+                "apartments",
+                "house"
+            ]:
+                return "residential"
+
+            if v in [
+                "commercial",
+                "retail",
+                "office"
+            ]:
+                return "commercial"
+
+            if v in [
+                "industrial",
+                "warehouse"
+            ]:
+                return "industrial"
+
+            return "other"
+
+        g["building_type"] = g["building"].apply(normalize_building)
+
+        # количество зданий
+        cnt = (
+            g.groupby(["h3_9", "building_type"])
+            .size()
+            .unstack(fill_value=0)
+            .reset_index()
+        )
+
+        cnt = cnt.rename(
+            columns={
+                c: f"building_cnt_{c}"
+                for c in cnt.columns if c != "h3_9"
+            }
+        )
+
+        # площадь зданий
+        area = (
+            g.groupby(["h3_9", "building_type"])["area"]
+            .sum()
+            .unstack(fill_value=0)
+            .reset_index()
+        )
+
+        area = area.rename(
+            columns={
+                c: f"building_area_{c}"
+                for c in area.columns if c != "h3_9"
+            }
+        )
+
+        return cnt.merge(area, on="h3_9", how="left")
