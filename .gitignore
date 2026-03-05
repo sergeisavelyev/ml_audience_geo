@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+data/*.parquet
+data/*.csv
+
+cache/
+
+test.ipynb
+*.ipynb
